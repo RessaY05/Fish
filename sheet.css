@@ -60,7 +60,7 @@ body {
 main {
     width: 60%;
     height: 570px;
-    background-color: cadetblue;
+    background-color: rgb(203, 207, 207);
     position: relative;
 }
 .im-1 {
@@ -113,7 +113,7 @@ button {
     right: 5px;
 }
 aside {
-    height: 600px;
+    height: 659px;
     width: 220px;
     background-color:#34b1b2;
     float: right;
@@ -132,5 +132,10 @@ aside {
 }
 footer {
     text-align: center;
+    margin-top: 150px;
     margin-bottom: 50px;
+}
+.he-5 {
+    color: rgb(178, 200, 202);
+    margin: 10px 0;
 }
